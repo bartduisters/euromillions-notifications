@@ -1,0 +1,24 @@
+{
+  "name": "euromillions-notifications",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bartduisters/euromillions-notifications.git"
+  },
+  "author": "Bart Duisters",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bartduisters/euromillions-notifications/issues"
+  },
+  "homepage": "https://github.com/bartduisters/euromillions-notifications#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "cheerio": "^1.0.0-rc.3",
+    "inquirer": "^7.3.3"
+  }
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "name": "John Duck",
+    "numbers": [5, 9, 24, 26, 36],
+    "stars": [2, 8]
+  },
+  {
+    "name": "Janine Duck",
+    "numbers": [11, 21, 30, 33, 45],
+    "stars": [1, 8]
+  }
+]
