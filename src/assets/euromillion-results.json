@@ -1,0 +1,54 @@
+[
+  {
+    "numbers": 5,
+    "stars": 2
+  },
+  {
+    "numbers": 5,
+    "stars": 1
+  },
+  {
+    "numbers": 5,
+    "stars": 0
+  },
+  {
+    "numbers": 4,
+    "stars": 2
+  },
+  {
+    "numbers": 4,
+    "stars": 1
+  },
+  {
+    "numbers": 3,
+    "stars": 2
+  },
+  {
+    "numbers": 4,
+    "stars": 0
+  },
+  {
+    "numbers": 2,
+    "stars": 2
+  },
+  {
+    "numbers": 3,
+    "stars": 1
+  },
+  {
+    "numbers": 3,
+    "stars": 0
+  },
+  {
+    "numbers": 1,
+    "stars": 2
+  },
+  {
+    "numbers": 2,
+    "stars": 1
+  },
+  {
+    "numbers": 2,
+    "stars": 0
+  }
+]

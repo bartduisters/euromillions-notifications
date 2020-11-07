@@ -6,9 +6,8 @@
 
 ## Usage
 
-In users.json add the user
+In src/assets/users.json add the users
 In a terminal, from the root of this project, run:
 
 - `npm install` to install all dependencies of this project
 - `node euromillions.js` to run the program
-
